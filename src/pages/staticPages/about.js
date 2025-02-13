@@ -5,7 +5,7 @@ import MainCard from 'components/MainCard';
 const SamplePage = () => {
   return (<MainCard title="About">
     <Typography variant="body2">
-      About studyeasy and React!
+      Sample about page!
     </Typography>
   </MainCard>
 )};
